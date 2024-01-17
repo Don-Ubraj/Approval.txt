@@ -1,4 +1,4 @@
-# created by Ubraj
+# created by Ubraj×Yu ni sh
 # https://www.github.com/Don-Ubraj
 # Time : Wed Jan 17 20:39:27 2024
 # -------------------------------
